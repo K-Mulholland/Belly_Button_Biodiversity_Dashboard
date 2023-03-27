@@ -44,3 +44,5 @@ Sample Values (How Much Of Each OTU Was Present)
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
+Check out the interactive dashboard here: https://k-mulholland.github.io/Belly_Button_Biodiversity_Dashboard/
+
